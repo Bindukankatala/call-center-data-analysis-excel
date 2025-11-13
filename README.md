@@ -1,2 +1,3 @@
-# call-center-data-analysis-excel
-The project utilizes Advanced Excel to analyze call center operations, focusing on representative performance, revenue generation and customer satisfaction trends. I transformed raw call log data into an interactive dashboard using Pivot Tables and Slicers to visualize critical KPIs, including call trends, total revenue and average customer rating.
+# call-center-data-analysis(interactive dashboard with excel)
+## Project Objective
+The primary objective of this project is to analyze the 2023 operational performance of a customer call center using Microsoft Excel. By processing over 1,000 call records, this project aims to solve critical business challenges related to staffing efficiency, revenue maximization, and representative performance. The goal is to transform raw data into actionable insights that identify Trends, highlight Top 10 high-value customers, and pinpoint specific representatives requiring satisfaction training to improve overall service quality.
