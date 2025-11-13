@@ -49,5 +49,5 @@ By analyzing the visualized data to answer the project questions, the following 
 * **Sales Performance:** The center generated a total revenue of **$96,623**. The "Year To Date Sales" trend shows specific seasonal peaks where hiring temporary staff would be beneficial.
 * **Customer Behavior:** We identified the **Top 10 Customers** who drive the majority of revenue. Conversely, the "Time Wasters" analysis flagged frequent callers with low purchase history, allowing for script adjustments.
 * **Rep Performance & Training:**
-    * Specific representatives (visible in the dashboard breakdown) consistently receive lower CSAT scores despite handling average call volumes.
+    * Specific representatives (visible in the dashboard breakdown) consistently receive lower Customer Satisfaction scores despite handling average call volumes.
     * **Correlation:** The analysis showed that longer calls do *not* always equal higher satisfaction; in fact, optimal satisfaction often correlates with medium-duration calls (efficient resolution).
