@@ -9,7 +9,7 @@ The primary objective of this project is to analyze the 2023 operational perform
 To derive meaningful value from the data, the analysis focused on answering the following business questions:
 1.  **How many calls are we getting by customer?** (Volume Analysis)
 2.  **Who are our top 10 customers?** (Key Account Management)
-3.  **Who are the top 10 customers for a specific representative?** (Individual Rep Performance)
+3.  **Who are the top 10 customers for a specific representative?** (Individual Representative Performance)
 4.  **Call duration analysis:** What is the distribution of call lengths?
 5.  **How busy is our call center in 2023?** (Traffic Analysis)
 6.  **Year To Date Sales Analysis:** What is the total revenue trend?
@@ -17,4 +17,4 @@ To derive meaningful value from the data, the analysis focused on answering the 
 8.  **Is there a link between call duration and satisfaction rating?** (Correlation Analysis)
 9.  **Should we hire extra people in any specific months?** (Capacity Planning)
 10. **Time Wasters:** Which customers call the most but buy the least? (Efficiency Check)
-11. **Rep Training:** Which rep(s) could use a satisfaction training program? (Performance Improvement)
+11. **Rep Training:** Which representative could use a satisfaction training program? (Performance Improvement)
