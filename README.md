@@ -18,3 +18,6 @@ To derive meaningful value from the data, the analysis focused on answering the 
 9.  **Should we hire extra people in any specific months?** (Capacity Planning)
 10. **Time Wasters:** Which customers call the most but buy the least? (Efficiency Check)
 11. **Rep Training:** Which representative could use a satisfaction training program? (Performance Improvement)
+## 📊 Dashboard
+![Call Center Dashboard](https://github.com/Bindukankatala/call-center-data-analysis-excel/blob/417ce948bcdd0a007418a67af1de9676e5a265a1/dashboard-image-excel.png)
+*(The dashboard visualizes Call Trends, Gender Demographics, Representative Performance, and Rating Distributions)*
