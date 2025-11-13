@@ -18,6 +18,26 @@ To derive meaningful value from the data, the analysis focused on answering the 
 9.  **Should we hire extra people in any specific months?** (Capacity Planning)
 10. **Time Wasters:** Which customers call the most but buy the least? (Efficiency Check)
 11. **Rep Training:** Which representative could use a satisfaction training program? (Performance Improvement)
+
+## ⚙️ Process
+The project was executed using **Microsoft Excel** following a structured data analysis workflow:
+
+1.  **Data Cleaning (ETL):**
+    * Imported raw `.csv` data into Excel.
+    * Standardized date formats in the `Call Timestamp` column.
+    * Checked for and removed duplicate records to ensure accuracy.
+    * Created calculated columns for "Call Duration Bins" and extracted "Day of Week" from timestamps.
+
+2.  **Data Analysis:**
+    * Utilized **Pivot Tables** to aggregate data by Representative, City, and Date.
+    * Calculated key metrics such as **Average CSAT Score**, **Total Revenue**, and **Call Count per Customer**.
+    * Segmented data to identify "Time Wasters" (High Call Volume vs. Low Revenue) and low-performing reps.
+
+3.  **Dashboard Construction:**
+    * Designed a dynamic layout using **Slicers** for interactive filtering (by Representative).
+    * Implemented **Conditional Formatting** to highlight top and bottom performers.
+    * Integrated visual elements including Line Charts for daily/monthly trends, Bar Charts for top customers, and Scatter Plots for duration vs. satisfaction.
+    
 ## 📊 Dashboard
 ![Call Center Dashboard](https://github.com/Bindukankatala/call-center-data-analysis-excel/blob/417ce948bcdd0a007418a67af1de9676e5a265a1/dashboard-image-excel.png)
 *(The dashboard visualizes Call Trends, Gender Demographics, Representative Performance, and Rating Distributions)*
