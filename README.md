@@ -30,8 +30,8 @@ The project was executed using **Microsoft Excel** following a structured data a
 
 2.  **Data Analysis:**
     * Utilized **Pivot Tables** to aggregate data by Representative, City, and Date.
-    * Calculated key metrics such as **Average CSAT Score**, **Total Revenue**, and **Call Count per Customer**.
-    * Segmented data to identify "Time Wasters" (High Call Volume vs. Low Revenue) and low-performing reps.
+    * Calculated key metrics such as **Financial year	day of the week**, **Duration bucket** and **Rating Rounded**.
+    * Segmented data to identify "Time Wasters" (High Call Volume vs. Low Revenue) and low-performing representativess.
 
 3.  **Dashboard Construction:**
     * Designed a dynamic layout using **Slicers** for interactive filtering (by Representative).
@@ -41,3 +41,13 @@ The project was executed using **Microsoft Excel** following a structured data a
 ## 📊 Dashboard
 ![Call Center Dashboard](https://github.com/Bindukankatala/call-center-data-analysis-excel/blob/417ce948bcdd0a007418a67af1de9676e5a265a1/dashboard-image-excel.png)
 *(The dashboard visualizes Call Trends, Gender Demographics, Representative Performance, and Rating Distributions)*
+
+## 💡 Insights Derived from the Project
+By analyzing the visualized data to answer the project questions, the following key insights were uncovered:
+
+* **Traffic & Staffing:** The "Busiest Days" analysis revealed that **Fridays** experience the highest call volume, suggesting a need for increased staffing on weekends/Fridays.
+* **Sales Performance:** The center generated a total revenue of **$96,623**. The "Year To Date Sales" trend shows specific seasonal peaks where hiring temporary staff would be beneficial.
+* **Customer Behavior:** We identified the **Top 10 Customers** who drive the majority of revenue. Conversely, the "Time Wasters" analysis flagged frequent callers with low purchase history, allowing for script adjustments.
+* **Rep Performance & Training:**
+    * Specific representatives (visible in the dashboard breakdown) consistently receive lower CSAT scores despite handling average call volumes.
+    * **Correlation:** The analysis showed that longer calls do *not* always equal higher satisfaction; in fact, optimal satisfaction often correlates with medium-duration calls (efficient resolution).
